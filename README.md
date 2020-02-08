@@ -1,2 +1,2 @@
 # virtual-file-manager
-Virtual file manager and grbage collector
+Virtual file manager and garbage collector
